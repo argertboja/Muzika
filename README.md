@@ -31,15 +31,21 @@ comment on those shared items.
 
 #### News Feed: 
 <center><img src="https://github.com/argertboja/Muzika/blob/master/Screenshots/6.JPG" width="500" height="200"></center><br>
+
 #### Post and Comments: 
 <center><img src="https://github.com/argertboja/Muzika/blob/master/Screenshots/7.JPG" width="300" height="300"></center><br>
+
 #### Profile: 
 <center><img src="https://github.com/argertboja/Muzika/blob/master/Screenshots/2.JPG" width="300" height="300"></center><br>
+
 #### Purchase Song: 
 <center><img src="https://github.com/argertboja/Muzika/blob/master/Screenshots/3.JPG" width="500" height="200"></center><br>
+
 #### Add Album: 
 <center><img src="https://github.com/argertboja/Muzika/blob/master/Screenshots/4.JPG" width="300" height="300"></center><br>
+
 #### Account Settings: 
 <center><img src="https://github.com/argertboja/Muzika/blob/master/Screenshots/5.JPG" width="300" height="300"></center><br>
+
 #### Create Playlist: 
 <center><img src="https://github.com/argertboja/Muzika/blob/master/Screenshots/8.JPG" width="500" height="200"></center><br>
