@@ -28,6 +28,7 @@ comment on those shared items.
 ### Screenshots:
 #### Login: 
 <center><img src="https://github.com/argertboja/Muzika/blob/master/Screenshots/0.JPG" width="500" height="200"></center><br>
+
 #### News Feed: 
 <center><img src="https://github.com/argertboja/Muzika/blob/master/Screenshots/6.JPG" width="500" height="200"></center><br>
 #### Post and Comments: 
